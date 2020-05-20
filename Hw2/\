@@ -1,0 +1,38 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+import pandas as pd
+import numpy as np
+
+class DataReader:
+    '''
+    数据读取
+    '''
+    def __init__(self,X_train_fn='X_train',Y_train_fn='Y_train',X_test_fn='X_test'):
+        self.X_train_fn = X_train_fn
+        self.Y_train_fn = Y_train_fn
+        self.X_test_fn = X_test_fn
+
+    def read(self):
+        '''
+        read data
+        '''
+        def read_df(fn):
+            df = pd.read_csv(fn)
+            df.set_index('id',inplace=True)
+            return df
+        X_train_df = read_df(self.X_train_fn)
+        self.X_train = X_train_df.to_numpy(dtype=np.int64)
+        self.columns = list(X_train_df.columns)
+        self.X_test = read_df(self.X_test_fn).to_numpy(dtype=np.int64)
+        self.Y_train = read_df(self.Y_train_fn).to_numpy(dtype=np.int64)
+
+    def data(self):
+        '''
+        return data
+        X_train, Y_train, X_test
+        '''
+        return self.X_train,self.Y_train,self.X_test
+
+    def featuresName(self,index):
+        return self.columns[index]
