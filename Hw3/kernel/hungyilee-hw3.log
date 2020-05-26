@@ -1,0 +1,19 @@
+[{"stream_name":"stderr","time":1.976543658,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":8.026495785,"data":"[NbConvertApp] Executing notebook with kernel: python3\n"}
+,{"stream_name":"stderr","time":4641.903477017,"data":"[NbConvertApp] Writing 296991 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":4642.611538553,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":4643.51671819,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":4643.517175542,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528416501,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.52848611,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528493415,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528498253,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528669675,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528680233,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528685194,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528689872,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528694434,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528700298,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528705287,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4643.528709911,"data":"[NbConvertApp] Writing 381668 bytes to __results__.html\n"}
+]

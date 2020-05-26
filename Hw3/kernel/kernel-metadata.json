@@ -1,0 +1,21 @@
+{
+  "id": "donglaic/hungyilee-hw3",
+  "id_no": 9579580,
+  "title": "HungyiLee-Hw3",
+  "code_file": "hungyilee-hw3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "donglaic/model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ml2020spring-hw3"
+  ]
+}
