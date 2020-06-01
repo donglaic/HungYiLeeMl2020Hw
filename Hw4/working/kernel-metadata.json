@@ -1,0 +1,21 @@
+{
+  "id": "donglaic/ml2020spring-hw4",
+  "id_no": 9753044,
+  "title": "ML2020spring-hw4",
+  "code_file": "ML2020spring-hw4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "donglaic/w2v-model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ml2020spring-hw4"
+  ]
+}
