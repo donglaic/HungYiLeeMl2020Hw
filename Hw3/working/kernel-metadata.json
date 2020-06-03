@@ -1,0 +1,17 @@
+{
+  "id": "donglaic/ml2020spring-hw3",
+  "id_no": 9857114,
+  "title": "ML2020spring-hw3",
+  "code_file": "ml2020spring-hw3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ml2020spring-hw3"
+  ]
+}

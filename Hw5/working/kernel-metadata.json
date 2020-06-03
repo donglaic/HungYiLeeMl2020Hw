@@ -1,0 +1,21 @@
+{
+  "id": "donglaic/ml2020spring-hw5",
+  "id_no": 9881102,
+  "title": "ML2020spring-hw5",
+  "code_file": "ml2020spring-hw5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "donglaic/hw3-model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ml2020spring-hw3"
+  ]
+}
