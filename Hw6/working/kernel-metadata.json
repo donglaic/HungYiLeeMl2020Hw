@@ -1,0 +1,19 @@
+{
+  "id": "donglaic/ml2020spring-hw6",
+  "id_no": 9906648,
+  "title": "ML2020spring-hw6",
+  "code_file": "ml2020spring-hw6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "donglaic/hw6-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}

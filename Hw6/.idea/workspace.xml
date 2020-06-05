@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fdeb1f4-1dbc-432d-8c64-6868c9f7b12b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/working/Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/FoodDataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ckFnRpDq4cw5OFpJsZaO0GSLuo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ml2020spring-hw5">
+    <configuration name="FoodDataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/working" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/working/FoodDataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ml2020spring-hw5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/working" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/working/ml2020spring-hw5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ml2020spring-hw5" />
+        <item itemvalue="Python.FoodDataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fdeb1f4-1dbc-432d-8c64-6868c9f7b12b" name="Default Changelist" comment="" />
+      <created>1591064850407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591064850407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1926" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591079830386">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1926" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591079830386" />
+    <state width="1350" height="272" key="GridCell.Tab.0.bottom" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.0.bottom/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591068608789" />
+    <state width="1350" height="272" key="GridCell.Tab.0.center" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.0.center/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591068608789" />
+    <state width="1350" height="272" key="GridCell.Tab.0.left" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.0.left/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591068608788" />
+    <state width="1350" height="272" key="GridCell.Tab.0.right" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.0.right/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591068608789" />
+    <state width="1350" height="272" key="GridCell.Tab.1.bottom" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.1.bottom/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1350" height="272" key="GridCell.Tab.1.center" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.1.center/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1350" height="272" key="GridCell.Tab.1.left" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.1.left/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state width="1350" height="272" key="GridCell.Tab.1.right" timestamp="1591092947340">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1350" height="272" key="GridCell.Tab.1.right/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591092947340" />
+    <state x="1819" y="133" width="738" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591077908440">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1819" y="133" width="738" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1440.900/0.27.1440.873@1440.0.1440.900" timestamp="1591077908440" />
+    <state x="379" y="89" key="search.everywhere.popup" timestamp="1591065311223">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1591065311223" />
+  </component>
+</project>
