@@ -1,0 +1,17 @@
+{
+  "id": "donglaic/ml2020spring-hw8",
+  "id_no": 10232487,
+  "title": "ml2020spring-hw8",
+  "code_file": "ml2020spring-hw8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "donglaic/hw8-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}

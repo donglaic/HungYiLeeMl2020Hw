@@ -1,0 +1,21 @@
+{
+  "id": "donglaic/ml2020spring-hw7",
+  "id_no": 9985732,
+  "title": "ML2020spring-hw7",
+  "code_file": "ml2020spring-hw7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "donglaic/hw7-model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ml2020spring-hw7"
+  ]
+}
